@@ -20,7 +20,7 @@ Create a .env file based on the .env.sample file and define a value for the para
 Sample data is available in the json files provided in the following folder
 
 ```Javascript
-    :\..\CSBC-1030-Assignments\samples\utils\seedfiles>
+    :\..\samples\utils\seedfiles>
 ```
 
 There are three JSON files:
@@ -37,7 +37,7 @@ A `MySql` file with the name `db_test3.sql` is provided that can be used to crea
 A script is available in the `utils` folder in the file `seeddata.js`
 
 ```Javascript
-    :\..\CSBC-1030-Assignments\samples\utils>
+    :\..\samples\utils>
 ```
 
 It imports env variables from the `.env` file in the `samples\utils` folder and the models from the respective files in the `project\models` folder
@@ -53,8 +53,8 @@ Then:
 d. Run the following commands after navigating to the `utils` folder in the CLI
 
 ```Javascript
-    X:\..\CSBC-1030-Assignments\samples\utils> npm init
-    X:\..\CSBC-1030-Assignments\samples\utils> node seeddata.js
+    X:\..\samples\utils> npm init
+    X:\..\samples\utils> node seeddata.js
 ```
 
 ### Note
@@ -71,16 +71,16 @@ Once the database is setup, the application can be run
 
 ```Javascript
 
-    X:\..\CSBC-1030-Assignments\project> npm install
+    npm install
 
-    X:\..\CSBC-1030-Assignments\project> npm start
+    npm start
 
 ```
 
 Instead of `npm start`, `nodemon` can also be used for running the application
 
 ```Javascript
-    X:\..\CSBC-1030-Assignments\project> nodemon
+    nodemon
 ```
 
 3. To view all users, use the following `GET` route in `Postman`

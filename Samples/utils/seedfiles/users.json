@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Leanne Graham",
+    "username": "leo",
+    "email": "Sincere@april.biz",
+    "password": "graham",
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org"
+  },
+  {
+    "name": "Bret Lee",
+    "username": "bret",
+    "email": "Shanna@melissa.tv",
+    "password": "lee",
+    "phone": "1-770-736-8031 x56442",
+    "website": "midguard.org"
+  },
+  {
+    "name": "Clementine Bauch",
+    "username": "clem",
+    "email": "Nathan@yesenia.net",
+    "password": "bauch",
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info"
+  },
+  {
+    "name": "Patricia Lebsack",
+    "username": "pat",
+    "email": "Julianne@kory.org",
+    "password": "lebsack",
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz"
+  },
+  {
+    "name": "Chelsey Dietrich",
+    "username": "kamren",
+    "email": "Lucio@annie.ca",
+    "password": "chelkam",
+    "phone": "(254)954-1289",
+    "website": "demarco.info"
+  },
+  {
+    "name": "Dennis Schulist",
+    "username": "den",
+    "email": "Karley_Dach@jasper.info",
+    "password": "schu",
+    "phone": "1-477-935-8478 x6430",
+    "website": "ola.org"
+  }
+]
